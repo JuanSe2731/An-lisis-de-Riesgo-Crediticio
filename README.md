@@ -27,4 +27,4 @@ Enlaces:
 
 - Codigo: https://colab.research.google.com/drive/1bZLMH-At7bBk4ESKIaaWlxN0Kf3OLqAY?usp=sharing
 - Video: 
-- Repositorio: 
+- Repositorio: https://github.com/JuanSe2731/An-lisis-de-Riesgo-Crediticio.git
