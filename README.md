@@ -12,7 +12,7 @@ Dataset:
 - Año: 1994
 - DOI: 10.24432/C5NC77
 - Hofmann, H. (1994). Statlog (German Credit Data) [Dataset]. UCI Machine Learning Repository.
-- Link de dascarga: https://doi.org/10.24432/C5NC77.
+- Link de descarga: https://doi.org/10.24432/C5NC77.
 - Descripción: Clasifica a personas como de buen o mal riesgo crediticio basado en sus características personales y financieras.
 
 
