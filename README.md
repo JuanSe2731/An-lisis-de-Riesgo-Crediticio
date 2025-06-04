@@ -1,5 +1,8 @@
 # Analisis de Riesgo Crediticio
 
+![Análisis de Riesgo Crediticio Utilizando Técnicas de Inteligencia Artificial](https://github.com/user-attachments/assets/be4cf0fd-d7c3-4b98-91dc-4e5e7e87c4ed)
+
+
 Autores: Juan Sebastián Otero Vega - 2220053, Farid Caamilo Rojas Vargas - 2220051, Juan Manuel Ramírez Salamanca - 2192279
 
 Objetivo:  
