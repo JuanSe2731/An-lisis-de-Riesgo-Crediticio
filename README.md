@@ -1,6 +1,6 @@
 # Analisis de Riesgo Crediticio
 
-![Análisis de Riesgo Crediticio Utilizando Técnicas de Inteligencia Artificial](https://github.com/user-attachments/assets/be4cf0fd-d7c3-4b98-91dc-4e5e7e87c4ed)
+![](Banner/Análisis%20de%20Riesgo%20Crediticio%20Utilizando%20Técnicas%20de%20Inteligencia%20Artificial.png)
 
 
 Autores: Juan Sebastián Otero Vega - 2220053, Farid Caamilo Rojas Vargas - 2220051, Juan Manuel Ramírez Salamanca - 2192279
@@ -29,5 +29,5 @@ Modelos:
 Enlaces:
 
 - Codigo: https://colab.research.google.com/drive/1bZLMH-At7bBk4ESKIaaWlxN0Kf3OLqAY?usp=sharing
-- Video: 
+- Video: https://youtu.be/HniQlS-5888?si=4uCsTVG8WtkXwQ2n
 - Repositorio: https://github.com/JuanSe2731/An-lisis-de-Riesgo-Crediticio.git
