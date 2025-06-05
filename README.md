@@ -3,7 +3,7 @@
 ![](Banner/Análisis%20de%20Riesgo%20Crediticio%20Utilizando%20Técnicas%20de%20Inteligencia%20Artificial.png)
 
 
-Autores: Juan Sebastián Otero Vega - 2220053, Farid Caamilo Rojas Vargas - 2220051, Juan Manuel Ramírez Salamanca - 2192279
+Autores: Juan Sebastián Otero Vega - 2220053, Farid Camilo Rojas Vargas - 2220051, Juan Manuel Ramírez Salamanca - 2192279
 
 Objetivo:  
 Desarrollar y evaluar modelos de aprendizaje automático supervisado y no supervisado para clasificar el riesgo crediticio de los solicitantes (bueno o malo), basándose en un conjunto de atributos. Se busca identificar los factores determinantes y predecir el incumplimiento para optimizar decisiones financieras.
